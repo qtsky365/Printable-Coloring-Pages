@@ -1,34 +1,24 @@
-Introduction:
-Qtsky built the app as an Ad Supported app. This SERVICE is provided by Qtsky at no cost and is intended for use as is.
+Privacy Policy
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Overview
+This Privacy Policy describes the information collected by Qtsky. (“Qtsky", “we,” “us” or “our”) through our mobile applications and how we use that information.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+We Don’t Collect Personal Information from Children with Our Applications.
+When you download and use our mobile applications, we don’t require you to provide any information and we don’t collect any information about you or your device, except for non-personal information about the duration the App is used and how the App is used, such as the screens viewed and actions taken within our mobile applications.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at unless otherwise defined in this Privacy Policy.
+We Comply with the Children’s Online Privacy Protection Act
+Our mobile applications comply with the Children’s Online Privacy Protection Act (“COPPA”). We don’t knowingly collect personal information from children under the age of 13, and if in the event that a user identifies himself or herself as a child under the age of 13 through a support request or through any feedback, we will not collect, store or use, and will delete in a secure manner, any personal information of such user.
 
-Information Collection and Use
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
+When You Request Support, You May Send Us Email
+We allow users to contact us if they have support questions about use of our mobile applications. If you submit a support request, we may receive your email address and other information you provide related to your support request (“Support Information”). We use Support Information only.
 
-Log Data
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Links to Third Party Sites
+We may provide links and/or connections to our own applications from within our application. We do not link to third-party content.
 
-Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy
-I do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
-
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Changes to this Privacy Policy
+We may amend this Privacy Policy from time to time. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at nosven@outlook.com.
+If you have any questions or concerns regarding this Privacy Policy, please send us an email at nosven@outlook.com.
+
+Last updated 2025-03-27
